@@ -1,0 +1,15 @@
+{
+  "name": "typescript-projekt-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "author": "Kacper Lewicki",
+  "license": "ISC",
+  "dependencies": {
+    "0g": "^0.0.9",
+    "typescript": "^4.9.5"
+  }
+}
